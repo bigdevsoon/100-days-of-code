@@ -42,9 +42,18 @@ Are you ready to start your coding and design journey? Dive into the challenges,
 
 ## 🕸️ Challenges List
 
-- [Day 1](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-01): Profile Card
-- [Day 2](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-02): Add to Bag
-- [Day 3](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-03): Mobile Navigation
+### [Day 1](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-01): Profile Card
+
+![Profile Card Design](./day-01/design.png)
+
+### [Day 2](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-02): Add to Bag
+
+![Add to Bag Design](./day-02/design.png)
+
+### [Day 3](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-03): Mobile Navigation
+
+![Mobile Navigation Design](./day-03/design.png)
+
 - [Day 4](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-04): Contact Us
 - [Day 5](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-05): Recipe
 - [Day 6](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-06): Image Carousel
