@@ -78,67 +78,67 @@ Are you ready to start your coding and design journey? Dive into the challenges,
 - [Day 34](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-34): User Profile
 - [Day 35](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-35): Rate Us
 - [Day 36](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-36): Sleep App
-- [Day 37](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-37): Music Festival
-- [Day 38](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-38): QR Code Scanner
-- [Day 39](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-39): FAQ
-- [Day 40](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-40): Create Workspace
-- [Day 41](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-41): Settings Appearance
-- [Day 42](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-42): Player Profile
-- [Day 43](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-43): Website Launch
-- [Day 44](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-44): Hosting Features
-- [Day 45](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-45): Customer List
-- [Day 46](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-46): Export File
-- [Day 47](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-47): Markdown Post
-- [Day 48](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-48): App Navigation
-- [Day 49](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-49): Friend Request
-- [Day 50](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-50): Download App
-- [Day 51](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-51): Language App
-- [Day 52](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-52): Billing Page
-- [Day 53](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-53): Article Summary
-- [Day 54](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-54): Progress Bars
-- [Day 55](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-55): Project Roadmap
-- [Day 56](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-56): Game Profile
-- [Day 57](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-57): Create Task
-- [Day 58](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-58): Calculate Tip
-- [Day 59](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-59): Code Verification
-- [Day 60](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-60): Flight Ticket
-- [Day 61](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-61): Testimonials
-- [Day 62](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-62): Weather App
-- [Day 63](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-63): Document Manager
-- [Day 64](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-64): Interests
-- [Day 65](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-65): Navigation UI
-- [Day 66](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-66): Select Account
-- [Day 67](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-67): User Satisfaction
-- [Day 68](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-68): Profile Settings
-- [Day 69](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-69): Cookies Banner
-- [Day 70](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-70): Email Client
-- [Day 71](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-71): Image Collections
-- [Day 72](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-72): Push Notification
-- [Day 73](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-73): Manage Accounts
-- [Day 74](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-74): Add Shot
-- [Day 75](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-75): E-book Store
-- [Day 76](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-76): App Integrations
-- [Day 77](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-77): Audio Player
-- [Day 78](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-78): Payment Plan
-- [Day 79](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-79): Articles Grid
-- [Day 80](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-80): Delivery Details
-- [Day 81](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-81): Color Palette
-- [Day 82](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-82): Socials Share
-- [Day 83](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-83): Buy a Coffee
-- [Day 84](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-84): Customer Reviews
-- [Day 85](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-85): Chatbot
-- [Day 86](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-86): Charts
-- [Day 87](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-87): Fingerprint
-- [Day 88](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-88): Voice Call
-- [Day 89](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-89): My Devices
-- [Day 90](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-90): Quizapp
-- [Day 91](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-91): Search Filters
-- [Day 92](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-92): Task Manager
-- [Day 93](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-93): Time Widget
-- [Day 94](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-94): 404
-- [Day 95](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-95): Subscribe Card
-- [Day 96](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-96): Design Assets
-- [Day 97](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-97): Voice Recording
-- [Day 98](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-98): Columns Card
-- [Day 99](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-99): Footer
+- [Day 37](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-36): Explore Flights
+- [Day 38](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-38): Music Festival
+- [Day 39](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-39): QR Code Scanner
+- [Day 40](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-40): FAQ
+- [Day 41](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-41): Create Workspace
+- [Day 42](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-42): Settings Appearance
+- [Day 43](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-43): Player Profile
+- [Day 44](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-44): Website Launch
+- [Day 45](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-45): Hosting Features
+- [Day 46](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-46): Customer List
+- [Day 47](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-47): Export File
+- [Day 48](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-48): Markdown Post
+- [Day 49](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-49): App Navigation
+- [Day 50](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-50): Friend Request
+- [Day 51](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-51): Download App
+- [Day 52](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-52): Language App
+- [Day 53](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-53): Billing Page
+- [Day 54](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-54): Article Summary
+- [Day 55](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-55): Progress Bars
+- [Day 56](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-56): Project Roadmap
+- [Day 57](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-57): Game Profile
+- [Day 58](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-58): Create Task
+- [Day 59](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-59): Calculate Tip
+- [Day 60](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-60): Code Verification
+- [Day 61](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-61): Flight Ticket
+- [Day 62](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-62): Testimonials
+- [Day 63](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-63): Weather App
+- [Day 64](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-64): Document Manager
+- [Day 65](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-65): Interests
+- [Day 66](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-66): Navigation UI
+- [Day 67](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-67): Select Account
+- [Day 68](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-68): User Satisfaction
+- [Day 69](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-69): Profile Settings
+- [Day 70](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-70): Cookies Banner
+- [Day 71](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-71): Email Client
+- [Day 72](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-72): Image Collections
+- [Day 73](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-73): Push Notification
+- [Day 74](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-74): Manage Accounts
+- [Day 75](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-75): Add Shot
+- [Day 76](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-76): E-book Store
+- [Day 77](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-77): App Integrations
+- [Day 78](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-78): Audio Player
+- [Day 79](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-79): Payment Plan
+- [Day 80](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-80): Articles Grid
+- [Day 81](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-81): Delivery Details
+- [Day 82](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-82): Color Palette
+- [Day 83](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-83): Socials Share
+- [Day 84](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-84): Buy a Coffee
+- [Day 85](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-85): Customer Reviews
+- [Day 86](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-86): Chatbot
+- [Day 87](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-87): Charts
+- [Day 88](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-88): Fingerprint
+- [Day 89](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-89): Voice Call
+- [Day 90](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-90): My Devices
+- [Day 91](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-91): Quizapp
+- [Day 92](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-92): Search Filters
+- [Day 93](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-93): Task Manager
+- [Day 94](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-94): Time Widget
+- [Day 95](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-95): 404
+- [Day 96](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-96): Subscribe Card
+- [Day 97](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-97): Design Assets
+- [Day 98](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-98): Voice Recording
+- [Day 99](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-99): Columns Card
 - [Day 100](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-100): Footer

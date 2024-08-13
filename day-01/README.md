@@ -1,6 +1,6 @@
 # Challenge Name: Profile Card
 
-You can work on this challenge directly in [BigDevSoon Code Editor](https://app.bigdevsoon.me/challenges/profile-card/browser)
+You can work on this challenge directly in [BigDevSoon Code Editor](https://app.bigdevsoon.me/challenges/profile-card/browser).
 
 ![Profile Card Design](./design.png)
 

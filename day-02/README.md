@@ -1,6 +1,6 @@
 # Challenge Name: Add To Bag
 
-You can work on this challenge directly in [BigDevSoon Code Editor](https://app.bigdevsoon.me/challenges/add-to-bag/browser)
+You can work on this challenge directly in [BigDevSoon Code Editor](https://app.bigdevsoon.me/challenges/add-to-bag/browser).
 
 ![Add To Bag Design](./design.png)
 
