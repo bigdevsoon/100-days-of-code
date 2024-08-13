@@ -1,4 +1,4 @@
-# 🚀 #100DaysOfCode: Design to Code Challenge by BigDevSoon
+# 🚀 100 Days Of Code: Design to Code Challenge
 
 Visit our platform for Developers and discover more fun stuff to build: [BigDevSoon](https://bigdevsoon.me/).
 
