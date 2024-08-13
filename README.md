@@ -1,6 +1,6 @@
 # 🚀 100 Days Of Code: Design to Code Challenge
 
-⭐️ Please star this repository to support our community! 🌟
+⭐️ Please star this repository to support our community! ⭐️
 
 Visit our platform for Developers and discover more fun stuff to build: [BigDevSoon](https://bigdevsoon.me/).
 
