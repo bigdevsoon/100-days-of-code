@@ -54,13 +54,34 @@ Are you ready to start your coding and design journey? Dive into the challenges,
 
 ![Mobile Navigation Design](./day-03/design.png)
 
-- [Day 4](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-04): Contact Us
-- [Day 5](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-05): Recipe
-- [Day 6](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-06): Image Carousel
-- [Day 7](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-07): Create Account
-- [Day 8](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-08): Music Events
-- [Day 9](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-09): Password Generator
-- [Day 10](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-10): Sign Up Page
+### [Day 4](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-04): Contact Us
+
+![Contact Us Design](./day-04/design.png)
+
+### [Day 5](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-05): Recipe
+
+![Recipe Design](./day-05/design.png)
+
+### [Day 6](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-06): Image Carousel
+
+![Image Carousel Design](./day-06/design.png)
+
+### [Day 7](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-07): Create Account
+
+![Create Account Design](./day-07/design.png)
+
+### [Day 8](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-08): Music Events
+
+![Music Events Design](./day-08/design.png)
+
+### [Day 9](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-09): Password Generator
+
+![Password Generator Design](./day-09/design.png)
+
+### [Day 10](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-10): Sign Up Page
+
+![Sign Up Page Design](./day-10/design.png)
+
 - [Day 11](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-11): Hotel Booking
 - [Day 12](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-12): Restaurant Reservation
 - [Day 13](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-13): Task Board
