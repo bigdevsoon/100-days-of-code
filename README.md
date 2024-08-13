@@ -1,5 +1,7 @@
 # 🚀 100 Days Of Code: Design to Code Challenge
 
+⭐️ Please star this repository to support our community! 🌟
+
 Visit our platform for Developers and discover more fun stuff to build: [BigDevSoon](https://bigdevsoon.me/).
 
 Welcome to the ultimate 100 Days of Design to Code Challenge! Whether you're just starting out or looking to sharpen your skills, this challenge is your pathway from a Junior to a Senior Frontend Developer with a flair for design. Each day brings a new challenge, complete with a unique design and detailed user stories.
@@ -17,10 +19,10 @@ The goal is simple: commit to coding by recreating beautiful designs daily for t
 
 ## 📖 How to Approach This Challenge
 
-1. **Understand requirements**: Each day starts with a clear User Story and Acceptance Criteria to guide your challenge.
-2. **Design to code (1 per day)**: Attempt to replicate the provided design image with precision. Variations are welcomed for personal flair!
+1. **Understand requirements**: Use any combination of HTML/CSS/JS, libraries and frameworks as you wish! Also, each day starts with a clear User Story and Acceptance Criteria to guide your challenge.
+2. **Design to code (1 per day ideally)**: Attempt to replicate the provided design image with precision. Variations are welcomed for personal flair!
 3. **Add Interactivity**: While designs focus on static elements, adding interactive features is encouraged to enhance functionality.
-4. **Log Your Progress**: Keep a daily log of your progress and achievements. When using [BigDevSoon](https://app.bigdevsoon.me/challenges), sharing your completed challenge URL and design image on social media to showcase your work and inspire others is quite straightforward.
+4. **Log Your Progress**: Keep a daily log of your progress and achievements. When using [BigDevSoon](https://app.bigdevsoon.me/challenges), tracking, and sharing your progress on social media to showcase your work and inspire others is super easy.
 
 ## 🌐 Join the Community
 
@@ -35,8 +37,6 @@ Make your journey viral by sharing your daily project links and images on platfo
 Are you ready to start your coding and design journey? Dive into the challenges, explore new technologies, and transform your skills. Happy coding, and good luck on completing all the challenges!
 
 📅 Start Date: [xx/xx/xxxx]
-
-⭐️ Please star this repository to support our community! 🌟
 
 #100DaysOfCode #CodeToLearn #BigDevSoon #CodeNewbie #Frontend
 

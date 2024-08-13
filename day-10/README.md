@@ -10,16 +10,17 @@ This is an opportunity to apply your skills in HTML, CSS, and JavaScript to crea
 
 ## User Story
 
-As a user, I want a user-friendly tool that allows me to generate a strong, customizable password effortlessly, ensuring my online accounts remain secure.
+As a potential user, I want a straightforward and flexible sign-up process on a website that offers multiple sign-up options, allowing me to quickly start using the service with minimal effort.
 
 ## Acceptance Criteria
 
-- The interface prominently displays a newly generated password each time the user requests one.
-- A slider is available to adjust the character length of the password, ranging from a minimum of 12 to a maximum of 32 characters.
-- Options to include uppercase letters, lowercase letters, numbers, and symbols are available as toggle switches.
-- Each setting adjustment instantly reflects in the type of password generated, enhancing customization.
-- The 'Generate Password' button is clearly visible and responsive, triggering a new password generation each time it is clicked.
-- The design is responsive, ensuring the tool is accessible and functional on various devices and screen sizes.
+- The sign-up page offers two panels: one for quick social media registration (Google) and another for traditional email-based registration.
+- Both panels clearly display the option to sign up with Google with a recognizable Google logo button.
+- The email sign-up option includes input fields for Name, Email, and Password.
+- All input fields have appropriate placeholders to indicate the required information.
+- The 'Sign up' button is prominent and indicates the action to complete the registration.
+- A direct link to log in is provided for users who already have an account, ensuring easy navigation.
+- The page design is clean, minimal, and responsive to ensure accessibility and functionality across various devices and screen sizes.
 
 ## Get Started
 
