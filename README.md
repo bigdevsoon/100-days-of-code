@@ -51,7 +51,7 @@ The goal is simple: commit to coding by recreating beautiful designs daily for t
 - [Color Hunt](https://colorhunt.co/)
 - [Chakra UI](https://v2.chakra-ui.com/docs/styled-system/theme#colors)
 
-## Sounds
+### Sounds
 
 - [Pixabay](https://pixabay.com/sound-effects/)
 - [Freesound](https://freesound.org/)
