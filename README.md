@@ -470,6 +470,6 @@ Are you ready to start your coding and design journey? Dive into the challenges,
 
 ![Columns Card Design](./day-99/design.png)
 
-### [Day 100](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-50): Footer
+### [Day 100](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-100): Footer
 
-![Footer Design](./day-50/design.png)
+![Footer Design](./day-100/design.png)
