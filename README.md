@@ -26,7 +26,7 @@ The goal is simple: commit to coding by recreating beautiful designs daily for t
 
 ## 🌐 Join the Community
 
-Sign up at [BigDevSoon](https://app.bigdevsoon.me/challenges) to access community support on Discord and complete all challenges in one place. Free users receive all challenge images and can upgrade for additional resources such as Figma Designs.
+Sign up at [BigDevSoon](https://app.bigdevsoon.me/challenges) to access community support on Discord and complete all challenges in one place. Free users receive all challenge images and can upgrade for additional resources such as Figma designs.
 
 ## 🔗 Sharing Your Work
 

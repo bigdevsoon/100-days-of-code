@@ -24,7 +24,7 @@ As a potential user, I want a straightforward and flexible sign-up process on a 
 
 ## Get Started
 
-Begin your development with the `index.html` provided in the challenge's folder. Work on this challenge directly in the [BigDevSoon Code Editor](https://app.bigdevsoon.me/challenges/sign-up-page/browser) and use the assets available to you and refer to the Figma design for visual guidelines. Push your boundaries and remember, perfection comes through practice and iteration.
+Begin your development with the `index.html` provided in the challenge's folder. You can work on this challenge directly in the [BigDevSoon Code Editor](https://app.bigdevsoon.me/challenges/sign-up-page/browser) and use the assets available to you and refer to the design screenshot for visual guidelines. Push your boundaries and remember, perfection comes through practice and iteration.
 
 ## Best Practices and Tips
 
