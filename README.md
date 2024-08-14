@@ -23,6 +23,38 @@ The goal is simple: commit to coding by recreating beautiful designs daily for t
 2. **Design to code (1 per day ideally)**: Attempt to replicate the provided design image with precision. Variations are welcomed for personal flair!
 3. **Add Interactivity**: While designs focus on static elements, adding interactive features is encouraged to enhance functionality.
 4. **Log Your Progress**: Keep a daily log of your progress and achievements. When using [BigDevSoon](https://app.bigdevsoon.me/challenges), tracking, and sharing your progress on social media to showcase your work and inspire others is super easy.
+5. **Challenge resources**: You are only given a design screenshot to work with hence all the icons, fonts, images and other resources need to be searched on your own, while working in BigDevSoon's Platform, we provide resources and BIG users can download Figma Designs with everything included.
+
+## ☘️ Resource List
+
+### Images
+
+- [Unsplash](https://unsplash.com/)
+- [Lunacy](https://icons8.com/lunacy)
+
+### Icons
+
+- [Font Awesome](https://fontawesome.com/icons)
+- [Material Icons](https://fonts.google.com/icons)
+- [Feather Icons](https://feathericons.com/)
+
+### Fonts
+
+- [Google Fonts](https://fonts.google.com/)
+- [Adobe Fonts](https://fonts.adobe.com/fonts)
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [Fontsource](https://fontsource.org/)
+
+### Colors
+
+- [Material Design](https://materialui.co/colors)
+- [Color Hunt](https://colorhunt.co/)
+- [Chakra UI](https://v2.chakra-ui.com/docs/styled-system/theme#colors)
+
+## Sounds
+
+- [Pixabay](https://pixabay.com/sound-effects/)
+- [Freesound](https://freesound.org/)
 
 ## 🌐 Join the Community
 
@@ -40,7 +72,7 @@ Are you ready to start your coding and design journey? Dive into the challenges,
 
 #100DaysOfCode #CodeToLearn #BigDevSoon #CodeNewbie #Frontend
 
-## 🕸️ Challenges List
+## 🕸️ Challenge List
 
 ### [Day 1](https://github.com/bigdevsoon/100-days-of-code/tree/main/day-01): Profile Card
 
